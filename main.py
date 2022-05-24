@@ -1,7 +1,7 @@
 import turtle
-import random
+#import random
 import time
-from pygame import mixer
+#from pygame import mixer
 
 # Adding music is optional as per your choice.
 #mixer.pre_init(frequency=48000, size=-16, channels=2, buffer=512)
